@@ -1,0 +1,2 @@
+just copy and paste into slack sidebar theme section under preferences
+#2a2d37,#7FB3E1,#DDA2F6,#ffffff,#403e54,#f5faff,#8AF1EA,#8af1ea
